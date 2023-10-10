@@ -12,7 +12,7 @@ footer{
     width: 99%;
     position: absolute;
     bottom: 0;
-    background: linear-gradient(to right, #00aeef , #ed1c24);
+    background: rgb(8, 92, 92);
     color:#fff;
     padding: 100px 0 30px;
     border-top-left-radius: 125px; ;
